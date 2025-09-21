@@ -1,0 +1,1 @@
+Here i added some html with lorem text of blue color
